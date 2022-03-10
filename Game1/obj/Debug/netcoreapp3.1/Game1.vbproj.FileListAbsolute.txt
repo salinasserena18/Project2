@@ -1,0 +1,17 @@
+D:\Comp 9\Game 1\Game1\obj\Debug\netcoreapp3.1\Game1.vbproj.AssemblyReference.cache
+D:\Comp 9\Game 1\Game1\obj\Debug\netcoreapp3.1\Game1.Form1.resources
+D:\Comp 9\Game 1\Game1\obj\Debug\netcoreapp3.1\Game1.Resources.resources
+D:\Comp 9\Game 1\Game1\obj\Debug\netcoreapp3.1\Game1.vbproj.GenerateResource.cache
+D:\Comp 9\Game 1\Game1\obj\Debug\netcoreapp3.1\Game1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Comp 9\Game 1\Game1\obj\Debug\netcoreapp3.1\Game1.AssemblyInfoInputs.cache
+D:\Comp 9\Game 1\Game1\obj\Debug\netcoreapp3.1\Game1.AssemblyInfo.vb
+D:\Comp 9\Game 1\Game1\obj\Debug\netcoreapp3.1\Game1.vbproj.CoreCompileInputs.cache
+D:\Comp 9\Game 1\Game1\bin\Debug\netcoreapp3.1\Game1.exe
+D:\Comp 9\Game 1\Game1\bin\Debug\netcoreapp3.1\Game1.deps.json
+D:\Comp 9\Game 1\Game1\bin\Debug\netcoreapp3.1\Game1.runtimeconfig.json
+D:\Comp 9\Game 1\Game1\bin\Debug\netcoreapp3.1\Game1.runtimeconfig.dev.json
+D:\Comp 9\Game 1\Game1\bin\Debug\netcoreapp3.1\Game1.dll
+D:\Comp 9\Game 1\Game1\bin\Debug\netcoreapp3.1\Game1.pdb
+D:\Comp 9\Game 1\Game1\obj\Debug\netcoreapp3.1\Game1.dll
+D:\Comp 9\Game 1\Game1\obj\Debug\netcoreapp3.1\Game1.pdb
+D:\Comp 9\Game 1\Game1\obj\Debug\netcoreapp3.1\Game1.genruntimeconfig.cache
